@@ -8,3 +8,6 @@
 - [ ] Design a reproducible package ecosystem audit
 - [ ] Begin documenting evidence for our paper
 
+## Questions
+
+- Which Python packages relevant to seismic and DAS analysis are available on Conda-forge, and how can we verify their availability programmatically ?
