@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-11-26T07:47:14.346980+00:00",
+  "results": [
+    {
+      "package": "obspy",
+      "channel": "conda-forge",
+      "status": "found",
+      "latest_version": "1.5.2",
+      "error": null
+    },
+    {
+      "package": "dascore",
+      "channel": "conda-forge",
+      "status": "found",
+      "latest_version": "0.1.25",
+      "error": null
+    },
+    {
+      "package": "seisbench",
+      "channel": "conda-forge",
+      "status": "not_found",
+      "latest_version": null,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "package": "pyrocko",
+      "channel": "conda-forge",
+      "status": "not_found",
+      "latest_version": null,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "package": "eqcorrscan",
+      "channel": "conda-forge",
+      "status": "found",
+      "latest_version": "0.5.2",
+      "error": null
+    },
+    {
+      "package": "cartopy",
+      "channel": "conda-forge",
+      "status": "found",
+      "latest_version": "0.26.0",
+      "error": null
+    }
+  ]
+}
