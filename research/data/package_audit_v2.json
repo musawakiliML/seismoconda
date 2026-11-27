@@ -1,0 +1,126 @@
+{
+  "checked_at": "2026-11-27 13:27:45.556723+00:00",
+  "packages": [
+    {
+      "package": "obspy",
+      "sources": {
+        "pypi": {
+          "source": "pypi",
+          "url": "https://pypi.org/pypi/obspy/json",
+          "status": "found",
+          "version": "1.5.2",
+          "error": null
+        },
+        "conda-forge": {
+          "source": "conda-forge",
+          "url": "https://api.anaconda.org/package/conda-forge/obspy",
+          "status": "found",
+          "version": "1.5.2",
+          "error": null
+        }
+      }
+    },
+    {
+      "package": "dascore",
+      "sources": {
+        "pypi": {
+          "source": "pypi",
+          "url": "https://pypi.org/pypi/dascore/json",
+          "status": "found",
+          "version": "0.1.25",
+          "error": null
+        },
+        "conda-forge": {
+          "source": "conda-forge",
+          "url": "https://api.anaconda.org/package/conda-forge/dascore",
+          "status": "found",
+          "version": "0.1.25",
+          "error": null
+        }
+      }
+    },
+    {
+      "package": "seisbench",
+      "sources": {
+        "pypi": {
+          "source": "pypi",
+          "url": "https://pypi.org/pypi/seisbench/json",
+          "status": "found",
+          "version": "0.13.0",
+          "error": null
+        },
+        "conda-forge": {
+          "source": "conda-forge",
+          "url": "https://api.anaconda.org/package/conda-forge/seisbench",
+          "status": "not_found",
+          "version": null,
+          "error": "HTTP Error 404: Not Found"
+        }
+      }
+    },
+    {
+      "package": "pyrocko",
+      "sources": {
+        "pypi": {
+          "source": "pypi",
+          "url": "https://pypi.org/pypi/pyrocko/json",
+          "status": "found",
+          "version": "2026.11.20",
+          "error": null
+        },
+        "conda-forge": {
+          "source": "conda-forge",
+          "url": "https://api.anaconda.org/package/conda-forge/pyrocko",
+          "status": "not_found",
+          "version": null,
+          "error": "HTTP Error 404: Not Found"
+        },
+        "pyrocko": {
+          "source": "pyrocko",
+          "url": "https://api.anaconda.org/package/pyrocko/pyrocko",
+          "status": "found",
+          "version": "2026.11.20",
+          "error": null
+        }
+      }
+    },
+    {
+      "package": "eqcorrscan",
+      "sources": {
+        "pypi": {
+          "source": "pypi",
+          "url": "https://pypi.org/pypi/eqcorrscan/json",
+          "status": "found",
+          "version": "0.5.2",
+          "error": null
+        },
+        "conda-forge": {
+          "source": "conda-forge",
+          "url": "https://api.anaconda.org/package/conda-forge/eqcorrscan",
+          "status": "found",
+          "version": "0.5.2",
+          "error": null
+        }
+      }
+    },
+    {
+      "package": "cartopy",
+      "sources": {
+        "pypi": {
+          "source": "pypi",
+          "url": "https://pypi.org/pypi/cartopy/json",
+          "status": "found",
+          "version": "0.26.0",
+          "error": null
+        },
+        "conda-forge": {
+          "source": "conda-forge",
+          "url": "https://api.anaconda.org/package/conda-forge/cartopy",
+          "status": "found",
+          "version": "0.26.0",
+          "error": null
+        }
+      }
+    }
+  ]
+}
