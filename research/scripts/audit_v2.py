@@ -125,7 +125,7 @@ def main():
     
     output_path.write_text(
         json.dumps(report, indent=2),
-        enconding="utf-8"
+        encoding="utf-8"
         )
     for package in results:
         print(f"\nPackage: {package['package']}")
